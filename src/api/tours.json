@@ -1,0 +1,48 @@
+{
+  "toursData": [
+    {
+      "id": 1,
+      "name": "Best of Paris in 7 days",
+      "price": 800,
+      "rating": 4.8,
+      "duration": 7,
+      "maxGroupSize": 15,
+      "difficulty": "easy",
+      "description": "Paris is synonymus with the fitnest things that culture can offer you. This tour is the perfect way to see the most of the city and its most famous sights. You will have a lot of fun and you will be able to see the most of the city in a short time.",
+      "image": "https://user-images.githubusercontent.com/72767265/152709627-f140a149-275e-49fb-aea4-0f0dc801ce02.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Discover the Eiffel Tower in 7 days",
+      "price": 900,
+      "rating": 4.8,
+      "duration": 7,
+      "maxGroupSize": 15,
+      "difficulty": "easy",
+      "description": "The Eiffel Tower is a wrought iron lattice tower on the Champ de Mars in Paris, France. It is named after the engineer Gustave Eiffel, whose company designed and built the tower. The tower is 324 metres (1,063 ft) tall and the tallest structure in Paris. It is also known as the Eiffel Tower of the World.",
+      "image": "https://user-images.githubusercontent.com/72767265/152709629-81fee5aa-d72c-4138-bc51-aaef76eb40bf.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Discover the Louvre in 7 days",
+      "price": 1000,
+      "rating": 4.8,
+      "duration": 7,
+      "maxGroupSize": 15,
+      "difficulty": "easy",
+      "description": "The Louvre or the Louvre Museum is the world's largest art museum and a historic monument in Paris, France. It is located on the Right Bank of the Seine in the city's 1st arrondissement (district) and has been a popular tourist attraction since the 17th century. The museum has become a global cultural icon, and is a popular destination for art students, as well as for those who appreciate the arts.",
+      "image": "https://user-images.githubusercontent.com/72767265/152709630-65feb6bc-2e74-48af-9c14-dca34884ca65.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Discover the Eiffel Tower in 7 days",
+      "price": 1100,
+      "rating": 4.8,
+      "duration": 7,
+      "maxGroupSize": 15,
+      "difficulty": "easy",
+      "description": "The Eiffel Tower is a wrought iron lattice tower on the Champ de Mars in Paris, France. It is named after the engineer Gustave Eiffel, whose company designed and built the tower. The tower is 324 metres (1,063 ft) tall and the tallest structure in Paris. It is also known as the Eiffel Tower of the World.",
+      "image": "https://user-images.githubusercontent.com/72767265/152709632-0d2f5d46-34fc-4044-b0f6-d720ee2da8f3.jpg"
+    }
+  ]
+}
